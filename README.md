@@ -48,4 +48,4 @@ In addition to the WAFFLE code, we provide the two major figures featured in the
 
 ## Licenses
 
-The WAFFLE code (Python and Cypher) are released under the [MIT License](https://opensource.org/licenses/MIT). Accompanying figures in `.png` and `.gephi` format are released under the [Creative Commons Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0)](https://creativecommons.org/licenses/by-nc/2.0/) license. 
+The WAFFLE code (Python and Cypher) are released under the [MIT License](https://opensource.org/licenses/MIT). Accompanying figures in `.png` and `.gephi` format are released under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license. 
