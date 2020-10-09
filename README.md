@@ -6,7 +6,7 @@
 ## Introduction
 WAFFLE is a software research project that builds on the [WordNet](https://wordnet.princeton.edu/) lexical database by restructuring and exploring the database into a graph structure. In addition to the Python code that performs this transformations and outputs the results in accessible interchange formats (.csv, .graphml), we make available [openCypher](http://www.opencypher.org/) code for loading and transforming the WAFFLE graph as well as figures featured in the [WAFFLE paper and presentation](thomsonreuters.com) featured at the *2nd Workshop for Natural Language Processing Open Source Software* ([NLP-OSS 2020](https://nlposs.github.io/2020/index.html))
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Homemade_waffle_closeup.jpg/800px-Homemade_waffle_closeup.jpg" alt="waffle" title="photo of a real-world waffle" width="200" height="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Homemade_waffle_closeup.jpg/800px-Homemade_waffle_closeup.jpg" alt="waffle" title="photo of a real-world waffle" width="400" height="300"/>
 
 <span style="font-size:0.75em"><a href="https://commons.wikimedia.org/wiki/File:Homemade_waffle_closeup.jpg">waffle photo credit</a></span>
 
